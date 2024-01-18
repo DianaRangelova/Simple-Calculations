@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsZL+FiU7nzFk79GEohSiiF5tgDKvJGPkyY3li4lhH1nSk4K51nV0ECUCTM1Galc+0ZC0CmMAYy2OFbuW+ztkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Simple-Calculations\\P04-4. Tiles\\P04-Tiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
